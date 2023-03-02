@@ -73,6 +73,8 @@ Here are some ideas to get you started:
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=lbnbhl&theme=dracula" /> </div>
 
 <!-- GitHub 连续打卡-->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lbnbhl&theme=dark)](https://git.io/streak-stats)
+<div align="center">
+	<img  src="https://github-readme-streak-stats.herokuapp.com/?user=lbnbhl&theme=dark" />
+</div>
 
 
