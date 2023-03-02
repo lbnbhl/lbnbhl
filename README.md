@@ -70,10 +70,9 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact&theme=tokyonight)</div>
 
 <!-- GitHub 活动统计图-->
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=lbnbhl&theme=xcode" /> </div>
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=lbnbhl&theme=dracula" /> </div>
 
 <!-- GitHub 连续打卡-->
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=lbnbhl" /> </div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lbnbhl&theme=dark)](https://git.io/streak-stats)
 
-<!-- 访问数-->
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=lbnbhl" /> </div>
+
