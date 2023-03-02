@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 </div>
 
 <!-- GitHub 活动统计图-->
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=lbnbhl&theme=dracula" /> </div>
+<div align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=lbnbhl&theme=dracula" /> </div>
 
 <!-- GitHub 连续打卡-->
 <div align="center">
