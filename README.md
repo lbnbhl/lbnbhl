@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **lbnbhl/lbnbhl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -64,6 +62,7 @@ Here are some ideas to get you started:
 <p>&emsp;&emsp;长风破浪会有时，直挂云帆济沧海。我开始得太晚了，但总不算太迟。春华秋实，努力一定会有收获，一枚学渣正在悄悄蜕变...</p>
 
 </td></tr>
+</table>
   
 <!-- 语言划分和github信息-->
 <div align="center"> ![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=lbnbhl&show_icons=true&theme=tokyonight)
