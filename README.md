@@ -65,9 +65,10 @@ Here are some ideas to get you started:
 </table>
   
 <!-- 语言划分和github信息-->
+<div align="center" >
 	<img height="137px" src="https://github-readme-stats.vercel.app/api?username=lbnbhl&hide_title=true&hide_border=true&show_icons=true&line_height=21&theme=tokyonight" />
 	<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbnbhl&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-
+</div>
 
 <!-- GitHub 活动统计图-->
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=lbnbhl&theme=dracula" /> </div>
